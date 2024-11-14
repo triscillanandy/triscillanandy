@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Nandawula</h1>
-<h3 align="center">A passionate Full stack developer from Uganda</h3>
+<h3 align="center">A passionate Software Engineer from Uganda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triscillanandy&label=Profile%20views&color=0e75b6&style=flat" alt="triscillanandy" /> </p>
 
